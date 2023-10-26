@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Activate
+  - Deactivate
+  - IceBeam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Enemy
+  - Player
+  - Bullets
+  - PlayerBullets
+  - Boss
+  - BossControl
+  - Special
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2573847581
+    locked: 0
+  - name: Enemy
+    uniqueID: 1338683375
+    locked: 0
+  - name: Player
+    uniqueID: 3143035737
+    locked: 0
+  - name: Bullets
+    uniqueID: 2688465649
+    locked: 0
+  - name: HUD
+    uniqueID: 2682511631
+    locked: 0
+  - name: Item
+    uniqueID: 2260936161
+    locked: 0
